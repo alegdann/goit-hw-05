@@ -627,12 +627,12 @@ input::placeholder {
 
 }
 .subs-btn {
+    font-family: 'Roboto', sans-serif;
     min-width: 165px;
     height: 40px;
     display: flex;
     justify-content: center;
     align-items: center;
-    font-family: "Roboto";
     font-size: 16px;
     font-weight: 500;
     line-height: 1.5;
@@ -866,7 +866,7 @@ outline: 2px solid rgba(0, 0, 255, 0.5);
 .review-form-submit-btn {
     display: block;
     color: #fff;
-    font-family: "Roboto";
+    font-family: 'Roboto', sans-serif;
     font-size: 16px;
     font-weight: 500;
     line-height: 1.5;
